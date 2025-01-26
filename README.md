@@ -80,7 +80,7 @@ We’d love to see your contributions! If you want to add a feature or fix a bug
 ---
 
 ## 🤝 **Credits**
-- **Developer**: [Your Name](https://github.com/yourusername)
+- **Developer**: [Your Name](https://github.com/Qasim-afzaal)
 - **Graphics**: Minimalistic design inspired by retro games.
 - **Frameworks**: Flutter and Flame for game mechanics.
 
